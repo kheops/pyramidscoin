@@ -53,8 +53,12 @@ Testnet P2P: 13994
 
 Community
 
-forum : http://forum.pyramidscoin.com/
-facebook:https://www.facebook.com/pages/PyramidsCoin/1456623634578680
-google+:  https://plus.google.com/100726956647509539280/
-twitter: https://twitter.com/PyramidsCoin
+forum : http://forum.pyramidscoin.com
+
+facebook : https://www.facebook.com/pages/PyramidsCoin/1456623634578680
+
+google : https://plus.google.com/100726956647509539280
+
+twitter : https://twitter.com/PyramidsCoin
+
 youtube : https://www.youtube.com/PyramidsCoin
