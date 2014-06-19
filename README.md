@@ -35,13 +35,13 @@ Bounties :  35,000   from the premine <br>
 ## Block Reward System
 
 0  PYRA ( Block 1 - 100) <br>
-90 PYRA ( Block 100 - 766666) <br>     
-30 PYRA ( Block 766666 - 1533333 ) <br>   
+90 PYRA ( Block 100 - 766666) <br>
+30 PYRA ( Block 766666 - 1533333 ) <br>
 3  PYRA ( Block 1533333 - 2300000 ) <br>
 9013 PYRA ( Block 2300000 ) <br>
 0+fees  PYRA ( Block 2300000+ ) <br>
 
-### Ports
+## Ports
 
 RPC Port: 33993 <br>
 P2P Port: 33994 <br>
