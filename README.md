@@ -25,14 +25,14 @@ if you have any ideas you can offer to the pyramidscoin community can help promo
 ## Specifications
 
 Symbol: PYRA <br>
-Total Coins: 95,000,000 <br>
-Block Time: 30 second <br>
-Difficulty Retarget: Every Block with Dark Gravity Wave v3 <br>
 Algorithm: X11 (blake, bmw, groestl, jh, keccak, skein, luffa, cubehash, shavite, simd, and echo) <br>
+Difficulty Retarget: Every Block with Dark Gravity Wave v3 <br>
+Block Time: 30 second <br>
+Total Coins: 95,000,000 <br>
 Citizen reserve: 94,000,000 <br>
-mining: 518,400 <br>
 Developers cut : 450,000 (0.5% of total coins) <br>
 Bounties : 31,600  (7% of devs cut) <br>
+mining: 518,400 <br>
 
 ## Block Reward System
 

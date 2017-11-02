@@ -1193,11 +1193,14 @@ void MapPort(bool)
 // The second name should resolve to a list of seed addresses.
 
 static const char *strMainNetDNSSeed[][2] = {
-    {"pyramidscoin.com", "95.215.45.126"}, //First Seed Node
-    {NULL, NULL},
+    {"pyramidscoin.trade", "197.50.0.206"}, //First Seed Node
+    {"pyramidscoin.trade", "dnsseed.pyramidscoin.trade"}, //Second Seed Node
+    {NULL, NULL}
 };
 
 static const char *strTestNetDNSSeed[][2] = {
+    {"pyramidscoin.trade", "197.50.0.206"}, //First testnet Seed Node
+    {"pyramidscoin.trade", "dnsseed.pyramidscoin.trade"}, //Second testnet Seed Node
     {NULL, NULL}
 };
 

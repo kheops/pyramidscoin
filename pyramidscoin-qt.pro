@@ -29,6 +29,8 @@ CONFIG += static
 #OPENSSL_LIB_PATH=c:/deps/ssl
 #MINIUPNPC_INCLUDE_PATH=C:/deps/
 #MINIUPNPC_LIB_PATH=C:/deps/miniupnpc
+#QRENCODE_INCLUDE_PATH=C:/deps/qrencode
+#QRENCODE_LIB_PATH=C:/deps/qrencode/.libs
 
 OBJECTS_DIR = build
 MOC_DIR = build
