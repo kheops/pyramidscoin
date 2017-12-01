@@ -4,7 +4,7 @@
 
 ## What is PyramidsCoin?
 
-Pyramidscoin is the Egyptian cryptocurrency , it will form a prototype of the great pyramid in cyberspace
+Pyramidscoin is a 3D wallet project , it will form a prototype of the great pyramid in cyberspace
 the total number of worthy blocks will be 2,300,000 block exactly like the great pyramid.
 The total number of coins is 95 milion so every citizen have the chance to own apiece of the pyramid.
 
