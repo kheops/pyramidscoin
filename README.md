@@ -4,9 +4,7 @@
 
 ## What is PyramidsCoin?
 
-Pyramidscoin is a 3D wallet project , it will form a prototype of the great pyramid in cyberspace
-the total number of worthy blocks will be 2,300,000 block exactly like the great pyramid.
-The total number of coins is 95 milion so every citizen have the chance to own apiece of the pyramid.
+Pyramidscoin is a 3D wallet project, our solution is a wallet where every thing is represented in 3d graphics in a very artistic and innovative way which will give the user immersive experience that strengthen the sense of value and interest of the asset he is holding, it will be a place will where user can have all of his crypto treasuries represented in 3D in one place in a visually accurate quantities, and very high qualtiy graphics near to realism in realtime, so just imagine this !. virtual reality is also one of the future possible plans.
 
 http://pyramidscoin.trade
 
@@ -18,8 +16,7 @@ PyramidsCoin is released under the terms of the MIT license. See COPYING for mor
 
 the development team as well as other volunteers can freely work in their own trees , then submit pull requests when they think their feature or bug fix are ready.
 excited about the cyber pyramids project, think you can promote pyramidscoin with something special by making a contribution to the pyramidscoin community
-developing web wallet - android wallet - block explorer - mining progress visualized as a pyramid shape -  payment services will make egyptians and even people from countries around this region consider it the future currency and start using it on daily basis  . 
-
+developing web wallet - android wallet - block explorer - mining progress visualized as a pyramid shape 
 if you have any ideas you can offer to the pyramidscoin community can help promote pyramidscoin Please email us pyramidscoin@gmail.com
 
 ## Specifications
