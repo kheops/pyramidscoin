@@ -17,7 +17,7 @@ PyramidsCoin is released under the terms of the MIT license. See COPYING for mor
 the development team as well as other volunteers can freely work in their own trees , then submit pull requests when they think their feature or bug fix are ready.
 excited about the cyber pyramids project, think you can promote pyramidscoin with something special by making a contribution to the pyramidscoin community
 developing web wallet - android wallet - block explorer - mining progress visualized as a pyramid shape 
-if you have any ideas you can offer to the pyramidscoin community can help promote pyramidscoin Please email us pyramidscoin@gmail.com
+if you have any ideas you can offer to the pyramidscoin community can help promote pyramidscoin Please email us contact@pyramidscoin.trade
 
 ## Specifications
 
